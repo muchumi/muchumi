@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Wycliffe Muchumi. 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WycliffeMuchumi)](https://github.com/WycliffeMuchumi/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muchumi)](https://github.com/muchumi/github-readme-stats)
 
 
 <!--
