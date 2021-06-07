@@ -1,4 +1,4 @@
-### Hi there 👋, I am Wycliffe Muchumi, a passionate and dedicated Software Developer who decided coding is his fairy tale.God Bless ya'! 
+### Hi there 👋, I am Wycliffe Muchumi. 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WycliffeMuchumi)](https://github.com/WycliffeMuchumi/github-readme-stats)
 
 
