@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://github.com/muchumi/muchumi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muchumi&show_icons=true&hide=html&title_color=abd200&text_color=f9f9f9f9&icon_color=70a5fd&bg_color=373f51&"/>
+</a>
