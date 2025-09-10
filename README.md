@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Wycliffe Muchumi. 
-I am a dedicated Dynamics 365/NAV developer with one year experience in developing, publishing and 
-deploying Dynamics 365 Business Enterprise Solutions for FMCG sectors/companies.
+I am a dedicated Dynamics 365/NAV developer with one year experience in developing, publishing and deploying Dynamics 365 Business Enterprise Solutions for FMCG sectors/companies.
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muchumi)](https://github.com/muchumi/github-readme-stats)
 
 
