@@ -1,4 +1,4 @@
-### Hi there 👋, I am Wycliffe Muchumi. 
+### Hi there 👋, I am Wycliffe Maina. 
 I am a dedicated Dynamics 365 developer with one year experience in developing, publishing and deploying Dynamics 365 Business Enterprise Solutions for FMCG companies.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muchumi)](https://github.com/muchumi/github-readme-stats)
